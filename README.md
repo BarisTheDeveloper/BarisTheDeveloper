@@ -47,20 +47,15 @@ const baris = {
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Learning Journey
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BarisTheDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarisTheDeveloper&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BarisTheDeveloper&theme=tokyonight&hide_border=true)
-
-</div>
+```text
+TypeScript   ████████████████░░░░   80%
+JavaScript   ███████████████████░   95%
+Zig          ██████░░░░░░░░░░░░░░   30%
+Git          ████████████████░░░░   80%
+Linux        ████████████░░░░░░░░   60%
+```
 
 ---
 
